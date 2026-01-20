@@ -1,4 +1,14 @@
+<div align="center">  
+
+<img src="https://vectorseek.com/wp-content/uploads/2025/03/GitHub-Copilot-Logo-PNG-SVG-Vector.png" alt="" align="center" height="128" />
+
 # AI Enabled Developer - Complete Training Course
+
+⭐ If you like this repo, star it on GitHub — it helps a lot!
+
+[Getting Started](#getting-started) • [Lessons](#course-overview) • [Keep Learning](#keep-learning)
+
+</div>
 
 ## 🎯 Course Overview
 
