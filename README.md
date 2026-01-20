@@ -41,7 +41,7 @@ Welcome to the **AI Enabled Developer** training program! This comprehensive cou
 ### Module Details
 
 #### Module 1: Introduction to GitHub & Copilot
-**Duration:** 4-6 hours | **Level:** Beginner | **Units:** 3
+**Duration:** 15-30 mins | **Units:** 3
 
 Learn GitHub fundamentals, GitHub Copilot basics, and responsible AI principles. Set up your development environment for AI-powered coding.
 
@@ -55,7 +55,7 @@ Learn GitHub fundamentals, GitHub Copilot basics, and responsible AI principles.
 ---
 
 #### Module 2: Foundations & Inline Code
-**Duration:** 3-4 hours | **Level:** Beginner to Intermediate | **Units:** 2
+**Duration:** 20-30 mins | **Units:** 2
 
 Master inline code assistance, code actions, and multi-environment support. Learn to work efficiently across multiple programming languages.
 
@@ -68,7 +68,7 @@ Master inline code assistance, code actions, and multi-environment support. Lear
 ---
 
 #### Module 3: Copilot As Assistant / Conversational Development
-**Duration:** 4-5 hours | **Level:** Intermediate | **Units:** 2
+**Duration:** 25-40 mins | **Units:** 2
 
 Leverage Copilot's chat interface for conversational development. Master context-aware prompting and advanced interaction techniques.
 
@@ -81,7 +81,7 @@ Leverage Copilot's chat interface for conversational development. Master context
 ---
 
 #### Module 4: Copilot Agent Mode
-**Duration:** 3-4 hours | **Level:** Intermediate to Advanced | **Units:** 1
+**Duration:** 20-35 mins | **Units:** 1
 
 Learn to delegate complex, multi-step tasks to Copilot Agent. Create custom instructions and prompt files for reusable patterns.
 
@@ -93,7 +93,7 @@ Learn to delegate complex, multi-step tasks to Copilot Agent. Create custom inst
 ---
 
 #### Module 5: Testing with GitHub Copilot
-**Duration:** 4-5 hours | **Level:** Intermediate to Advanced | **Units:** 1
+**Duration:** 25-40 mins | **Units:** 1
 
 Master AI-assisted testing strategies. Generate comprehensive test suites, handle edge cases, and debug effectively with test feedback.
 
