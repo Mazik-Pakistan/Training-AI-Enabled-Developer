@@ -28,12 +28,24 @@ Welcome to the **AI Enabled Developer** training program! This comprehensive cou
 
 ## 📚 Course Modules
 
-### Module 1: Introduction to GitHub & Copilot
-**Duration:** 4-6 hours | **Level:** Beginner
+### Module Overview Table
+
+| # | Module | Duration | Units | Description | Access |
+|---|--------|----------|-------|-------------|--------|
+| 1 | **Introduction to GitHub & Copilot** | 15-30 mins | 3 | Learn GitHub fundamentals, GitHub Copilot basics, and responsible AI principles. Set up your development environment for AI-powered coding. | [📖 Go](modules/module1-intro-github-copilot/) |
+| 2 | **Foundations & Inline Code** | 20-30 mins | 2 | Master inline code assistance, code actions, and multi-environment support. Learn to work efficiently across multiple programming languages. | [📖 Go](modules/module2-foundations-inline/) |
+| 3 | **Copilot As Assistant** | 25-40 mins | 2 | Leverage Copilot's chat interface for conversational development. Master context-aware prompting and advanced interaction techniques. | [📖 Go](modules/module3-copilot-assistant/) |
+| 4 | **Copilot Agent Mode** | 20-35 mins | 1 | Learn to delegate complex, multi-step tasks to Copilot Agent. Create custom instructions and prompt files for reusable patterns. | [📖 Go](modules/module4-agent-mode/) |
+| 5 | **Testing with GitHub Copilot** | 25-40 mins | 1 | Master AI-assisted testing strategies. Generate comprehensive test suites, handle edge cases, and debug effectively with test feedback. | [📖 Go](modules/module5-testing/) |
+
+### Module Details
+
+#### Module 1: Introduction to GitHub & Copilot
+**Duration:** 4-6 hours | **Level:** Beginner | **Units:** 3
 
 Learn GitHub fundamentals, GitHub Copilot basics, and responsible AI principles. Set up your development environment for AI-powered coding.
 
-**Units:**
+**Topics Covered:**
 - Unit 1: Introduction to GitHub
 - Unit 2: Introduction to GitHub Copilot
 - Unit 3: GitHub Copilot Primer & Environment Setup
@@ -42,12 +54,12 @@ Learn GitHub fundamentals, GitHub Copilot basics, and responsible AI principles.
 
 ---
 
-### Module 2: Foundations & Inline Code
-**Duration:** 3-4 hours | **Level:** Beginner to Intermediate
+#### Module 2: Foundations & Inline Code
+**Duration:** 3-4 hours | **Level:** Beginner to Intermediate | **Units:** 2
 
 Master inline code assistance, code actions, and multi-environment support. Learn to work efficiently across multiple programming languages.
 
-**Units:**
+**Topics Covered:**
 - Unit 1: Inline Code Assistance
 - Unit 2: Multi-Environment Support
 
@@ -55,12 +67,12 @@ Master inline code assistance, code actions, and multi-environment support. Lear
 
 ---
 
-### Module 3: Copilot As Assistant / Conversational Development
-**Duration:** 4-5 hours | **Level:** Intermediate
+#### Module 3: Copilot As Assistant / Conversational Development
+**Duration:** 4-5 hours | **Level:** Intermediate | **Units:** 2
 
 Leverage Copilot's chat interface for conversational development. Master context-aware prompting and advanced interaction techniques.
 
-**Units:**
+**Topics Covered:**
 - Unit 1: Copilot Chat Interface
 - Unit 2: Context-Aware Prompting
 
@@ -68,24 +80,24 @@ Leverage Copilot's chat interface for conversational development. Master context
 
 ---
 
-### Module 4: Copilot Agent Mode
-**Duration:** 3-4 hours | **Level:** Intermediate to Advanced
+#### Module 4: Copilot Agent Mode
+**Duration:** 3-4 hours | **Level:** Intermediate to Advanced | **Units:** 1
 
 Learn to delegate complex, multi-step tasks to Copilot Agent. Create custom instructions and prompt files for reusable patterns.
 
-**Units:**
+**Topics Covered:**
 - Unit 1: Get Started with Copilot Agent Mode
 
 [📖 Go to Module 4](modules/module4-agent-mode/)
 
 ---
 
-### Module 5: Testing with GitHub Copilot
-**Duration:** 4-5 hours | **Level:** Intermediate to Advanced
+#### Module 5: Testing with GitHub Copilot
+**Duration:** 4-5 hours | **Level:** Intermediate to Advanced | **Units:** 1
 
 Master AI-assisted testing strategies. Generate comprehensive test suites, handle edge cases, and debug effectively with test feedback.
 
-**Units:**
+**Topics Covered:**
 - Unit 1: Get Started with AI-Based Code Testing
 
 [📖 Go to Module 5](modules/module5-testing/)
