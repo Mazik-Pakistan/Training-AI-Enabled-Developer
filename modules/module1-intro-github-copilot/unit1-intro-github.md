@@ -11,8 +11,16 @@ After completing this unit, you will be able to:
 
 ## 1. Overview of GitHub Platform
 
+Before we explore the GitHub platform in detail, it's important to understand what it's built on: **Git**.
+
+**Git** is a **distributed version control system** that lets developers track changes, collaborate on code, and manage revisions over time. **GitHub** builds on top of Git by adding collaboration tools, automation features, and a user-friendly web interface. 
+
 ### What is GitHub?
 GitHub is a cloud-based platform for version control and collaboration. It uses Git, a distributed version control system, to track changes in source code during software development.
+
+<img src="https://learn.microsoft.com/en-gb/training/github/introduction-to-github/media/github-enterprise-platform.png">
+
+<br>
 
 **Key Benefits:**
 - 🔄 **Version Control**: Track every change to your code
@@ -64,18 +72,30 @@ main branch
     └─── Updated main branch
 ```
 
+**Steps to create GitHub repository:**  [Link](https://learn.microsoft.com/en-gb/training/modules/introduction-to-github/2-what-is-github?wt.mc_id=studentamb_202028)
+
 ### Issues and Project Management
 - **Issues**: Track tasks, bugs, and feature requests
+![GitHub Issues](https://learn.microsoft.com/en-gb/training/github/introduction-to-github/media/issues-tab.png)
 - **Labels**: Categorize and filter issues
+![GitHub Labels](https://miro.medium.com/v2/resize:fit:1400/1*OgvdAqfvgAFnPEwf8Dm6hw.png)
 - **Milestones**: Group issues into releases
+![GitHub Milestons](https://docs.github.com/assets/cb-49741/images/help/issues/issues-milestone-button.png)
 - **Projects**: Kanban-style project boards
+![GitHub Milestons](https://bip-arch.stare-miasto.pl/github.githubassets.com/assets/memex-view-board-cebeb9984e53.png)
 
 ### Collaboration Features
 - **Pull Requests**: Code review workflow
+![GitHub PR](https://docs.github.com/assets/cb-87213/images/help/pull_requests/pull-request-review-edit-branch.png)
 - **Code Review**: Inline comments and suggestions
+![GitHub Code Review](https://docs.github.com/assets/cb-44227/images/help/commits/hover-comment-icon.png)
 - **Discussions**: Community conversations
+![GitHub Discussion](https://learn.microsoft.com/en-gb/training/github/introduction-to-github/media/discussions-tab.png)
 - **Notifications**: Stay updated on activity
 
+#### Explore further: 
+1) [GitHub collabration tool](https://learn.microsoft.com/en-gb/training/modules/introduction-to-github/4-collaborative-platform?wt.mc_id=studentamb_202028)
+2) [GitHub platform management](https://learn.microsoft.com/en-gb/training/modules/introduction-to-github/5-platform-management?wt.mc_id=studentamb_202028)
 ---
 
 ## 3. GitHub Codespaces: Faster, Frictionless Development
@@ -90,25 +110,7 @@ GitHub Codespaces is a cloud-based development environment that runs directly in
 - 💪 **Powerful Compute**: Use cloud resources for heavy tasks
 
 ### How Codespaces Works
-
-```
-┌──────────────────────────────────┐
-│   GitHub Repository              │
-│                                  │
-│   + devcontainer.json            │
-│     (configuration)              │
-└────────────┬─────────────────────┘
-             │
-             │ Launch
-             ▼
-┌──────────────────────────────────┐
-│   Cloud-Based VS Code            │
-│                                  │
-│   ✓ Extensions installed         │
-│   ✓ Dependencies ready           │
-│   ✓ Environment configured       │
-└──────────────────────────────────┘
-```
+![Codespaces](./images/codespace.png)
 
 ### Key Features
 - **Pre-built environments**: Start coding immediately
@@ -116,8 +118,13 @@ GitHub Codespaces is a cloud-based development environment that runs directly in
 - **Secrets**: Securely stored credentials
 - **Port forwarding**: Test web apps easily
 
----
+### How to Access
+![Access_Codespaces](https://pythongeolab.com/assets/img/codespace-step1.png)
 
+**Note: All personal GitHub accounts have a monthly quota of free use of GitHub Codespaces**
+> The free plan offers 120 hours of usage for 1 core or 60 hours for 2 cores, plus 15 GB of storage per month.
+
+---
 ## Hands-On Exercises
 
 ### Exercise 1: Create Your First Repository
@@ -190,33 +197,11 @@ git commit -m "Add new feature"
 
 # Push to GitHub
 git push origin feature/new-feature
-```
 
-### Example 2: .devcontainer Configuration for Codespaces
-
-**`.devcontainer/devcontainer.json`:**
-```json
-{
-  "name": "Python Development",
-  "image": "mcr.microsoft.com/devcontainers/python:3.11",
-  "features": {
-    "ghcr.io/devcontainers/features/github-cli:1": {}
-  },
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "ms-python.python",
-        "ms-python.vscode-pylance",
-        "GitHub.copilot"
-      ]
-    }
-  },
-  "postCreateCommand": "pip install -r requirements.txt"
-}
 ```
+> *Checkout [GitHub Cheetsheet](https://education.github.com/git-cheat-sheet-education.pdf) and learn more about Git commands.*
 
 ---
-
 ## Real-World Scenario
 
 ### Scenario: Team Collaboration on a Web Project
@@ -237,85 +222,25 @@ git push origin feature/new-feature
 - ✅ Code review ensures quality
 - ✅ Branch protection prevents breaking changes
 - ✅ Team visibility through Issues and PRs
-
 ---
 
-## Knowledge Check
 
-### Quick Quiz
-1. What is the difference between Git and GitHub?
-2. What is a Pull Request used for?
-3. Name three benefits of using GitHub Codespaces
-4. What is the purpose of branching?
+## Lab: Get Started with GitHub
 
-### Answers
-1. Git is the version control system; GitHub is the cloud platform that hosts Git repositories
-2. A Pull Request is used to propose changes and conduct code reviews before merging
-3. Instant setup, accessible anywhere, consistent environment, powerful compute
-4. Branching allows parallel development without affecting the main codebase
+Click here to access [Interactive Lab : Introduction to GitHub](https://github.com/skills/introduction-to-github)
 
----
-
-## Lab: Create a Project Repository
-
-### Objective
+### Lab Objective
 Create a complete project repository with proper structure and documentation.
 
-### Instructions
-
-**Part 1: Repository Setup**
-1. Create a new repository named `my-first-project`
-2. Add a README with project description
-3. Create a `.gitignore` file for your language
-4. Add a LICENSE file (MIT License)
-
-**Part 2: Project Structure**
-Create the following structure:
-```
-my-first-project/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── src/
-│   └── main.py
-├── tests/
-│   └── test_main.py
-└── docs/
-    └── setup.md
-```
-
-**Part 3: Collaboration Setup**
-1. Create an Issue: "Add project documentation"
-2. Create a Project board with columns: To Do, In Progress, Done
-3. Create a branch `feature/docs`
-4. Add content to `docs/setup.md`
-5. Open a Pull Request
-6. Merge after self-review
-
-**Part 4: Codespaces Configuration**
-1. Create `.devcontainer/devcontainer.json`
-2. Configure for Python development
-3. Test by launching Codespaces
-4. Verify extensions are installed
-
-### Expected Outcome
-- ✅ Fully configured repository
-- ✅ Proper project structure
-- ✅ Working Codespaces environment
-- ✅ Understanding of GitHub workflow
-
 ---
-
 ## Additional Resources
 
 ### Documentation
 - [GitHub Docs: Getting Started](https://docs.github.com/en/get-started)
-- [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github)
 - [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces)
 
 ### Interactive Tutorials
 - [GitHub Skills: First Day on GitHub](https://github.com/skills/introduction-to-github)
-- [GitHub Skills: First Week on GitHub](https://github.com/skills/github-pages)
 - [Microsoft Learn: Introduction to GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)
 
 ### Video Resources
