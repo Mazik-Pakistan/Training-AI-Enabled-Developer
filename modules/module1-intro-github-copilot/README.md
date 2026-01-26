@@ -5,17 +5,17 @@ This module introduces you to GitHub platform fundamentals, GitHub Copilot AI as
 
 ## Units in This Module
 
-### Unit 1: Introduction to GitHub
+### [Unit 1: Introduction to GitHub](./unit1-intro-github.md)
 - Overview of GitHub platform
 - Core features of GitHub
 - How GitHub Codespaces enables faster, frictionless development
 
-### Unit 2: Introduction to GitHub Copilot
+### [Unit 2: Introduction to GitHub Copilot](./unit2-intro-copilot.md)
 - What GitHub Copilot is and how it works
 - Effective prompting for better development experience
 - Principles of Responsible AI
 
-### Unit 3: GitHub Copilot Primer & Environment Setup
+### [Unit 3: GitHub Copilot Primer & Environment Setup](./unit3-setup.md)
 - GitHub Copilot plans
 - GitHub Copilot Chat Modes
 - Setting up development environment

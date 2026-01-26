@@ -5,11 +5,11 @@ This module explores GitHub Copilot's core capabilities for inline code assistan
 
 ## Units in This Module
 
-### Unit 1: Inline Code Assistance
+### [Unit 1: Inline Code Assistance](./unit1-inline-assistance.md)
 - AI Code Completion in GitHub Copilot
 - Inline Code Actions (Explain/Fix/Move/Rewrite)
 
-### Unit 2: Multi-Environment Support
+### [Unit 2: Multi-Environment Support](./unit2-multi-environment.md)
 - Work across multiple programming languages
 - GitHub Copilot Ask Mode
 - Explore different GitHub Copilot interaction modes

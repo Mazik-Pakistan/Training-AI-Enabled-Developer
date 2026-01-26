@@ -5,7 +5,7 @@ This module focuses on leveraging GitHub Copilot for comprehensive testing strat
 
 ## Unit in This Module
 
-### Unit 1: Get Started with AI-Based Code Testing
+### [Unit 1: Get Started with AI-Based Code Testing](./unit1-testing-fundamentals.md)
 - Why Testing Matters
 - Writing Test Cases Using Natural Language
 - Generating Unit Tests from Code

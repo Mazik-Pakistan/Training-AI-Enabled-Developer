@@ -5,7 +5,7 @@ Copilot Agent Mode represents the next evolution in AI-assisted development, whe
 
 ## Unit in This Module
 
-### Unit 1: Get Started with Copilot Agent Mode
+### [Unit 1: Get Started with Copilot Agent Mode](./unit1-agent-mode.md)
 - Introduction to Agent Mode
 - Writing Custom Instructions for Agents
 - Prompt Files in GitHub Copilot

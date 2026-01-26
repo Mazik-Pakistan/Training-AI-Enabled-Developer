@@ -5,13 +5,13 @@ This module focuses on leveraging GitHub Copilot's chat interface for conversati
 
 ## Units in This Module
 
-### Unit 1: Copilot Chat Interface
+### [Unit 1: Copilot Chat Interface](./unit1-chat-interface.md)
 - Chat-based development using Copilot sidebar
 - Slash commands (/explain, /fix, etc.)
 - Chat Context Anchors (file, selection, terminal)
 - Model Selection (GPT-4 / GPT-o5) in GitHub Copilot
 
-### Unit 2: Context-Aware Prompting
+### [Unit 2: Context-Aware Prompting](./unit2-context-aware-prompting.md)
 - Understanding Context in Prompt Design
 - Types of Context Used in Prompts
 - Context-Aware Prompting vs Basic Prompting
