@@ -161,4 +161,24 @@ Ready to become an AI-Enabled Developer?
 
 ---
 
+## 🎓 Designed By
+
+<div align="center">
+
+This training course is proudly designed by:
+
+<br>
+
+<img src="modules/module1-intro-github-copilot/images/logos.jpg" alt="Mazik Pakistan & Resource Cloud" width="600" />
+
+<br>
+
+**MazikGlobal Pakistan** • **Resource Cloud**
+
+*Empowering developers with AI-enabled skills*
+
+</div>
+
+---
+
 Happy Coding! 🚀
