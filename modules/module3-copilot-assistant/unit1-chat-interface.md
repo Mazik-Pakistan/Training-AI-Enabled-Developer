@@ -17,6 +17,13 @@ After completing this unit, you will be able to:
 
 Chat-based development is a conversational approach to coding where you interact with AI through natural language dialogue to solve problems, learn concepts, and generate code.
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=3surPGP7_4o">
+    <img src="https://img.youtube.com/vi/3surPGP7_4o/maxresdefault.jpg" width="600" alt="Click to play video">
+  </a><br>
+  <em>▶ Click to play video</em>
+</p>
+
 ### The Copilot Chat Interface
 
 ```

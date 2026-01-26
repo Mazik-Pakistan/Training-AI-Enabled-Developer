@@ -13,6 +13,13 @@ After completing this unit, you will be able to:
 
 ## 1. Understanding Context in Prompt Design
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=h0AT3GagswQ">
+    <img src="https://img.youtube.com/vi/h0AT3GagswQ/maxresdefault.jpg" width="600" alt="Click to play video">
+  </a><br>
+  <em>▶ Click to play video</em>
+</p>
+
 ### What is Context?
 
 Context is the surrounding information that helps AI understand your intent and generate more accurate, relevant responses.

@@ -10,6 +10,10 @@ After completing this unit, you will be able to:
 ---
 
 ## 1. Overview of GitHub Platform
+[![Watch the video](https://img.youtube.com/vi/NUELGzIHT-I/maxresdefault.jpg)](https://www.youtube.com/watch?v=NUELGzIHT-I)
+<p align="center">
+  <em>▶ Click to play video</em>
+</p>
 
 Before we explore the GitHub platform in detail, it's important to understand what it's built on: **Git**.
 

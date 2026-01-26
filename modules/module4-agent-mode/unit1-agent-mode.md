@@ -14,6 +14,13 @@ After completing this unit, you will be able to:
 
 ## 1. Introduction to Agent Mode
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=aKx5I0Mrr9g">
+    <img src="https://img.youtube.com/vi/aKx5I0Mrr9g/maxresdefault.jpg" width="600" alt="Click to play video">
+  </a><br>
+  <em>▶ Click to play video</em>
+</p>
+
 ### What is Agent Mode?
 
 Agent Mode transforms GitHub Copilot from an assistant into an autonomous developer that can:

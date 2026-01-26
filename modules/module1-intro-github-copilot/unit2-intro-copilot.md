@@ -11,6 +11,12 @@ After completing this unit, you will be able to:
 ---
 
 ## 1. What GitHub Copilot Is and How It Works
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=n0NlxUyA7FI">
+    <img src="https://img.youtube.com/vi/n0NlxUyA7FI/maxresdefault.jpg" width="600" alt="Click to play video">
+  </a><br>
+  <em>▶ Click to play video</em>
+</p>
 
 ### What is GitHub Copilot?
 GitHub Copilot is an AI-powered code completion tool that acts as your "AI pair programmer." It suggests whole lines or entire functions as you type.

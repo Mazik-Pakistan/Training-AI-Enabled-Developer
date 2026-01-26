@@ -227,6 +227,13 @@ Tell Copilot what to focus on:
 
 ## 3. Setting Up Development Environment
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=X_Aet9ndh_Y">
+    <img src="https://img.youtube.com/vi/X_Aet9ndh_Y/maxresdefault.jpg" width="600" alt="Click to play video">
+  </a><br>
+  <em>▶ Click to play video</em>
+</p>
+
 ### Prerequisites
 
 Before installing GitHub Copilot:

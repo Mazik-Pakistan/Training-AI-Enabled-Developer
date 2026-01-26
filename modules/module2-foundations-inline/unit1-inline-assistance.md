@@ -18,6 +18,13 @@ AI code completion is Copilot's ability to suggest code as you type. Unlike trad
 
 ### How It Works
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=jgON0bve74w">
+    <img src="https://img.youtube.com/vi/jgON0bve74w/maxresdefault.jpg" width="600" alt="Click to play video">
+  </a><br>
+  <em>▶ Click to play video</em>
+</p>
+
 ```
 Your Context          →    Copilot Analysis    →    Suggestions
 ━━━━━━━━━━━━━━━━━━━━     ━━━━━━━━━━━━━━━━━━━━     ━━━━━━━━━━━━━━━

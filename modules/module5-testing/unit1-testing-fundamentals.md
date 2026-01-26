@@ -98,6 +98,13 @@ Testing is not optional—it's essential for:
 
 ## 2. Writing Test Cases Using Natural Language
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=arn6hqERKn4">
+    <img src="https://img.youtube.com/vi/arn6hqERKn4/maxresdefault.jpg" width="600" alt="Click to play video">
+  </a><br>
+  <em>▶ Click to play video</em>
+</p>
+
 ### Natural Language Test Generation
 
 With GitHub Copilot, you can describe tests in plain English and generate code.
