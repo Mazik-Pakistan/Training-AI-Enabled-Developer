@@ -1,6 +1,6 @@
 <div align="center">  
 
-<img src="https://images.ctfassets.net/8aevphvgewt8/5IdZ8KizWhMOGixAmVSw0g/f81f5f263a88eabe5d3e102300d44a88/github-copilot-social-img.png" alt="" align="center" height="300" />
+<img src="https://images.ctfassets.net/8aevphvgewt8/5IdZ8KizWhMOGixAmVSw0g/f81f5f263a88eabe5d3e102300d44a88/github-copilot-social-img.png" alt="" align="center" height="350" />
 
 <br>
 
