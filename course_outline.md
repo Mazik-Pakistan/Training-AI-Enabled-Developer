@@ -1,7 +1,7 @@
 # AI Enabled Developer Course
 
 ## Course Overview
-This course is designed to provide developers with a comprehensive understanding of GitHub, GitHub Copilot, and responsible AI principles. The course is structured into five main modules, each focusing on different aspects of using GitHub and GitHub Copilot effectively.
+This course is designed to provide developers with a comprehensive understanding of GitHub, GitHub Copilot, and responsible AI principles. The course is structured into five main modules plus a capstone project, each focusing on different aspects of using GitHub and GitHub Copilot effectively.
 
 ### Module 1: Introduction to GitHub & Copilot
 - **Learning Objectives**: Understand the basics of GitHub and GitHub Copilot, including setup and responsible AI principles.
@@ -59,5 +59,27 @@ This course is designed to provide developers with a comprehensive understanding
   - Create a test suite for a simple application.
 - **Reference Links**: [GitHub Skills](https://skills.github.com/)
 
+### Capstone Project: Real-World Application Development
+- **Learning Objectives**: Apply all learned skills to build a complete, production-ready application using AI-enabled development practices.
+- **Concept Explanation**: This capstone project synthesizes all previous modules into a comprehensive real-world application, demonstrating mastery of GitHub, GitHub Copilot, and responsible AI principles.
+- **Project Requirements**:
+  - Build a multi-language full-stack application
+  - Use AI-assisted development workflow throughout
+  - Implement comprehensive test suite with Copilot
+  - Apply all 5 Responsible AI principles
+  - Create professional documentation
+  - Use Agent Mode for complex features
+  - Demonstrate context-aware prompting
+- **Deliverables**:
+  - Complete working application
+  - GitHub repository with proper structure
+  - Comprehensive test coverage
+  - README with setup instructions
+  - Technical documentation
+  - Reflection on AI usage and learnings
+- **Reference Links**: 
+  - [GitHub Docs](https://docs.github.com/)
+  - [GitHub Copilot Best Practices](https://docs.github.com/en/copilot)
+
 ## Final Output Expectation
-Each module will be complete, structured, and ready for commitment to the repository, ensuring technical accuracy and consistent referencing of the curriculum.
+Each module will be complete, structured, and ready for commitment to the repository, ensuring technical accuracy and consistent referencing of the curriculum. The capstone project will demonstrate practical application of all course concepts in a real-world scenario.
