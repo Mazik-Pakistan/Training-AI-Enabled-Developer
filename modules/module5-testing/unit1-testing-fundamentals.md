@@ -731,7 +731,7 @@ In this unit, you learned:
 - ✅ Verifying business requirements through tests
 - ✅ Using test feedback for effective debugging
 
-**Next:** Course Completion and Final Project
+**Next:** [Course Completion and Final Project](../Capstone%20Project/CapstoneProjectGuideline.md)
 
 ---
 

@@ -681,7 +681,7 @@ In this unit, you learned:
 - ✅ Troubleshooting common issues
 - ✅ Best practices for team setup
 
-**Next:** Module 2 - Foundations & Inline Code
+**Next:** [Module 2 - Foundations & Inline Code](../module2-foundations-inline/README.md)
 
 ---
 

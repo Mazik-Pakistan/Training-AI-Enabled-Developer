@@ -944,4 +944,4 @@ In this unit, you learned:
 - ✅ Chat-based development workflows
 - ✅ Real-world conversation patterns
 
-**Next:** Unit 2 - Context-Aware Prompting
+**Next:** [Unit 2 - Context-Aware Prompting](./unit2-context-aware-prompting.md)

@@ -934,4 +934,4 @@ In this unit, you learned:
 - ✅ Best practices for accepting suggestions
 - ✅ Real-world refactoring techniques
 
-**Next:** Unit 2 - Multi-Environment Support
+**Next:** [Unit 2 - Multi-Environment Support](./unit2-multi-environment.md)

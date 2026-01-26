@@ -956,7 +956,7 @@ In this unit, you learned:
 - ✅ How to switch between modes for optimal workflow
 - ✅ Cross-language development techniques
 
-**Next:** Module 3 - Copilot As Assistant / Conversational Development Workflows
+**Next:** [Module 3 - Copilot As Assistant / Conversational Development Workflows](../module3-copilot-assistant/README.md)
 
 ---
 

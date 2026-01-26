@@ -919,7 +919,7 @@ In this unit, you learned:
 - ✅ How to write comprehensive, effective prompts
 - ✅ Techniques for consistent, high-quality AI output
 
-**Next:** Module 4 - Copilot Agent Mode
+**Next:** [Module 4 - Copilot Agent Mode](../module4-agent-mode/README.md)
 
 ---
 

@@ -986,7 +986,7 @@ You now have all the skills to leverage AI at every level:
 - Chat for learning and problem-solving
 - Agent Mode for autonomous feature development
 
-**Next:** Module 5 - Testing with GitHub Copilot
+**Next:** [Module 5 - Testing with GitHub Copilot](../module5-testing/README.md)
 
 ---
 

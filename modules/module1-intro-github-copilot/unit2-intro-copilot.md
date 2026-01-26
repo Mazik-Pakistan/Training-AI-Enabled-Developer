@@ -644,4 +644,4 @@ In this unit, you learned:
 - ✅ Best practices for using AI assistance safely and ethically
 - ✅ Hands-on experience generating code with Copilot
 
-**Next:** [Unit 3 - GitHub Copilot Primer & Environment Setup](../unit3-copilot-primer-environment-setup.md)
+**Next:** [Unit 3 - GitHub Copilot Primer & Environment Setup](../unit3-setup.md)
