@@ -913,7 +913,7 @@ def get_usr(id):
 - [VS Code IntelliSense](https://code.visualstudio.com/docs/editor/intellisense)
 
 ### Videos
-- [Copilot Tips and Tricks](https://www.youtube.com/watch?v=XXXXXXXXXXXX)
+- [Copilot Tips and Tricks](https://www.youtube.com/watch?v=b5xcWdzAB5c)
 
 ---
 

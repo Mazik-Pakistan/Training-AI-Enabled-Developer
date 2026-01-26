@@ -27,7 +27,7 @@ GitHub Copilot offers different plans for individuals, teams, and enterprises:
 - ✅ Code referencing
 - ✅ Public code filter
 
-**Pricing:** $10/month or $100/year
+**Pricing:** $10/month 
 
 **Free for:**
 - Verified students
@@ -516,7 +516,7 @@ README.md
 
 ---
 
-## Real-World Scenario
+## Real-World Scenario 
 
 ### Scenario: Setting Up a Team Development Environment
 
@@ -573,16 +573,9 @@ Create `COPILOT_GUIDELINES.md`:
 ❌ DON'T skip code reviews
 ❌ DON'T assume correctness
 ```
-
-#### **Step 5: Training**
-- Conduct team workshop on Copilot
-- Share this course material
-- Practice together
-- Set up peer review process
-
 ---
 
-## Lab: Complete Environment Setup
+## Lab: Complete Environment Setup (If you already setup don't need to setup again)
 
 ### Objective
 Set up a fully configured development environment with GitHub Copilot optimized for your workflow.
@@ -666,27 +659,8 @@ Create `SETUP.md` documenting:
 - [VS Code Setup Guide](https://www.youtube.com/watch?v=XXXXXXXXXXXX)
 
 ### Community
-- [GitHub Copilot Discussion Forum](https://github.com/orgs/community/discussions/categories/copilot)
+- [GitHub Copilot Discussion Forum](https://github.com/Mazik-Pakistan/Training-AI-Enabled-Developer/discussions)
 - [VS Code Community](https://code.visualstudio.com/community)
-
----
-
-## Knowledge Check
-
-### Quick Quiz
-
-1. What's the difference between Copilot Individual and Business?
-2. Name the four chat modes available in Copilot
-3. What does the `/tests` slash command do?
-4. How do you trigger an inline suggestion manually?
-5. What is a context anchor?
-
-### Answers
-1. Business includes organization management, usage insights, and audit logs
-2. Inline Chat, Chat Panel, Agent Mode, Quick Chat
-3. Generates test cases for selected code or function
-4. Press `Alt+\` (Windows/Linux) or `Opt+\` (Mac)
-5. A way to reference specific files, selections, or contexts in chat (#file, #selection, etc.)
 
 ---
 

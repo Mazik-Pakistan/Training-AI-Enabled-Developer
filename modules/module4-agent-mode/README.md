@@ -22,11 +22,6 @@ Copilot Agent Mode represents the next evolution in AI-assisted development, whe
 - Understanding of conversational development
 - Experience with complex development tasks
 
-## Estimated Time
-- **Total Module Time**: 3-4 hours
-- Unit 1: 2-2.5 hours
-- Lab: 1-1.5 hours
-
 ## Learning Objectives
 By the end of this module, you will be able to:
 - ✅ Understand when to use Agent Mode vs Chat

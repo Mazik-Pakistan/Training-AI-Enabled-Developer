@@ -15,6 +15,8 @@ After completing this unit, you will be able to:
 ### What is GitHub Copilot?
 GitHub Copilot is an AI-powered code completion tool that acts as your "AI pair programmer." It suggests whole lines or entire functions as you type.
 
+<img src="https://images.ctfassets.net/8aevphvgewt8/5IdZ8KizWhMOGixAmVSw0g/f81f5f263a88eabe5d3e102300d44a88/github-copilot-social-img.png">
+
 **Key Features:**
 - 💡 **Intelligent Code Completion**: Context-aware suggestions
 - 💬 **Chat Interface**: Ask questions and get explanations
@@ -26,9 +28,9 @@ GitHub Copilot is an AI-powered code completion tool that acts as your "AI pair 
 
 ```
 ┌─────────────────────────────────────────┐
-│  Your Code Editor (VS Code)            │
+│  Your Code Editor (VS Code)             │
 │                                         │
-│  You type: # Calculate factorial       │
+│  You type: # Calculate factorial        │
 │                                         │
 │  Copilot suggests:                      │
 │  def factorial(n):                      │
@@ -215,6 +217,8 @@ def sum_list(numbers):
 ## 3. Principles of Responsible AI
 
 ### The 5 Responsible AI Principles
+
+<img src="https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/2_Core_Principles.jpg">
 
 #### 1. **Fairness** ⚖️
 **Principle**: AI systems should treat all people fairly.
@@ -416,25 +420,6 @@ Try different prompts and observe the quality of suggestions:
 3. Let Copilot suggest the implementation
 4. Observe how it uses the `re` import
 
-### Exercise 4: Responsible AI Review
-Review this AI-generated code for issues:
-
-```python
-def approve_application(name, age, gender, ethnicity):
-    if age < 25:
-        return False
-    if gender == 'female':
-        threshold = 75000
-    else:
-        threshold = 60000
-    return calculate_score(name, ethnicity) > threshold
-```
-
-**Questions:**
-- What fairness issues do you see?
-- How would you improve it?
-- What principles does it violate?
-
 ---
 
 ## Code Examples
@@ -567,25 +552,6 @@ def register_user(email, password, username):
 
 ---
 
-## Knowledge Check
-
-### Quick Quiz
-
-1. What model powers GitHub Copilot?
-2. Name three things Copilot can help with
-3. Why is it important to review AI-generated code?
-4. What are the 5 Responsible AI principles?
-5. How can you improve Copilot suggestions?
-
-### Answers
-1. OpenAI Codex
-2. Code generation, code explanation, testing, documentation
-3. To ensure correctness, security, and alignment with requirements
-4. Fairness, Reliability & Safety, Privacy & Security, Inclusiveness, Transparency
-5. Write clear comments, provide context, use descriptive names, break down tasks
-
----
-
 ## Lab: Build a Feature with Copilot
 
 ### Objective
@@ -655,7 +621,6 @@ Use Copilot to generate:
 - [Microsoft Responsible AI Principles](https://www.microsoft.com/en-us/ai/responsible-ai)
 
 ### Interactive Learning
-- [GitHub Skills: Code with Copilot](https://github.com/skills/copilot-codespaces-vscode)
 - [Microsoft Learn: Introduction to GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/)
 
 ### Videos
@@ -673,4 +638,4 @@ In this unit, you learned:
 - ✅ Best practices for using AI assistance safely and ethically
 - ✅ Hands-on experience generating code with Copilot
 
-**Next:** Unit 3 - GitHub Copilot Primer & Environment Setup
+**Next:** [Unit 3 - GitHub Copilot Primer & Environment Setup](../unit3-copilot-primer-environment-setup.md)

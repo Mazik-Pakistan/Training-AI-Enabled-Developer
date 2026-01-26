@@ -24,12 +24,6 @@ This module explores GitHub Copilot's core capabilities for inline code assistan
 - GitHub Copilot installed and configured
 - Basic programming knowledge in at least one language
 
-## Estimated Time
-- **Total Module Time**: 3-4 hours
-- Unit 1: 1.5-2 hours
-- Unit 2: 1-1.5 hours
-- Lab: 1 hour
-
 ## Learning Objectives
 By the end of this module, you will be able to:
 - ✅ Use AI code completion effectively

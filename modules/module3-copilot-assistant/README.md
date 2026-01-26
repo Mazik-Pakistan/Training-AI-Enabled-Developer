@@ -9,7 +9,7 @@ This module focuses on leveraging GitHub Copilot's chat interface for conversati
 - Chat-based development using Copilot sidebar
 - Slash commands (/explain, /fix, etc.)
 - Chat Context Anchors (file, selection, terminal)
-- Model Selection (GPT-4 / GPT-o1) in GitHub Copilot
+- Model Selection (GPT-4 / GPT-o5) in GitHub Copilot
 
 ### Unit 2: Context-Aware Prompting
 - Understanding Context in Prompt Design
@@ -26,12 +26,6 @@ This module focuses on leveraging GitHub Copilot's chat interface for conversati
 - Completed Modules 1 and 2
 - GitHub Copilot Chat enabled
 - Familiarity with basic Copilot features
-
-## Estimated Time
-- **Total Module Time**: 4-5 hours
-- Unit 1: 2-2.5 hours
-- Unit 2: 1.5-2 hours
-- Lab: 1 hour
 
 ## Learning Objectives
 By the end of this module, you will be able to:

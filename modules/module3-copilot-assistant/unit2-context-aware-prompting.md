@@ -82,10 +82,10 @@ def process_user_registration(email, password, db_session):
         ┌─────────────────┐
        /  Your Specific   /
       /   Requirements   /  (Most Important)
-     /─────────────────/
+     /──────────────────/
     /   Code Style &   /
    /   Conventions    /
-  /─────────────────/
+  /──────────────────/
  /  Libraries &     /
 /   Tech Stack     /
 /─────────────────/

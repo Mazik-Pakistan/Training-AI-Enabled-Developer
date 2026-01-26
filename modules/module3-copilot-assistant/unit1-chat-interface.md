@@ -24,17 +24,17 @@ Chat-based development is a conversational approach to coding where you interact
 │  GitHub Copilot Chat                │
 ├─────────────────────────────────────┤
 │                                     │
-│  💬 You: How do I connect to       │
+│  💬 You: How do I connect to        │
 │          MongoDB in Node.js?        │
 │                                     │
-│  🤖 Copilot: Here's how to connect │
+│  🤖 Copilot: Here's how to connect  │
 │     to MongoDB using Mongoose...    │
 │     [code example]                  │
 │                                     │
-│  💬 You: Can you add error         │
+│  💬 You: Can you add error          │
 │          handling?                  │
 │                                     │
-│  🤖 Copilot: Sure! Here's the      │
+│  🤖 Copilot: Sure! Here's the       │
 │     updated code with try-catch...  │
 │                                     │
 └─────────────────────────────────────┘
@@ -644,7 +644,7 @@ WHERE o.created_at > '2024-01-01'
 GROUP BY u.id;
 ```
 
-**GPT-o1 Response:**
+**GPT-o4 Response:**
 ```sql
 -- Comprehensive optimization strategy:
 

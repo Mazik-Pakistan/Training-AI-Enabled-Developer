@@ -258,4 +258,4 @@ In this unit, you learned:
 - ✅ How GitHub Codespaces enables cloud-based development
 - ✅ Hands-on experience with GitHub's essential features
 
-**Next:** Unit 2 - Introduction to GitHub Copilot
+**Next:** [Unit 2 - Introduction to GitHub Copilot](./unit2-intro-github-copilot.md)

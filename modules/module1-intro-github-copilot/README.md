@@ -20,23 +20,12 @@ This module introduces you to GitHub platform fundamentals, GitHub Copilot AI as
 - GitHub Copilot Chat Modes
 - Setting up development environment
 
-## Learning Path
-1. Start with **Unit 1** to understand GitHub fundamentals
-2. Progress to **Unit 2** to learn about GitHub Copilot
-3. Complete **Unit 3** to set up your environment
-4. Finish with the **Module Lab** to apply your knowledge
 
 ## Prerequisites
 - Basic understanding of version control concepts
 - A GitHub account (free or paid)
 - A code editor (VS Code recommended)
 
-## Estimated Time
-- **Total Module Time**: 4-6 hours
-- Unit 1: 1.5 hours
-- Unit 2: 1.5 hours
-- Unit 3: 1 hour
-- Lab: 1-2 hours
 
 ## Learning Objectives
 By the end of this module, you will be able to:
@@ -48,6 +37,5 @@ By the end of this module, you will be able to:
 
 ## Resources
 - [GitHub Docs](https://docs.github.com/)
-- [GitHub Skills](https://skills.github.com/)
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
 - [Microsoft Learn: GitHub](https://learn.microsoft.com/en-us/training/github/)

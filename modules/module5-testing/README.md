@@ -25,11 +25,6 @@ This module focuses on leveraging GitHub Copilot for comprehensive testing strat
 - Basic understanding of testing concepts
 - Experience writing code in at least one language
 
-## Estimated Time
-- **Total Module Time**: 4-5 hours
-- Unit 1: 2.5-3 hours
-- Lab: 1.5-2 hours
-
 ## Learning Objectives
 By the end of this module, you will be able to:
 - ✅ Explain the importance of testing in software development

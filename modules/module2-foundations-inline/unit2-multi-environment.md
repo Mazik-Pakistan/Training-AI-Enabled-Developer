@@ -427,7 +427,7 @@ async function fetchAllDataSafely() {
 Choose Promise.all when all requests must succeed.
 Choose Promise.allSettled when you want partial results.
 ```
-```
+
 
 **Example 3: Debugging**
 
@@ -475,7 +475,7 @@ function Counter() {
     return <div onClick={() => setCount(count + 1)}>{count}</div>;
 }
 ```
-```
+
 
 ---
 
@@ -483,33 +483,32 @@ function Counter() {
 
 ### Overview of Interaction Modes
 
-```
-┌─────────────────────────────────────────────┐
-│  GitHub Copilot Interaction Modes           │
-├─────────────────────────────────────────────┤
-│                                             │
-│  1. Inline Completion                       │
-│     → Auto-suggestions as you type          │
-│     → Tab to accept                         │
-│                                             │
-│  2. Inline Chat (Ctrl+I)                    │
-│     → Contextual questions                  │
-│     → Quick edits                           │
-│                                             │
-│  3. Chat Panel (Ctrl+Alt+I)                 │
-│     → Extended conversations                │
-│     → Learning and exploration              │
-│                                             │
-│  4. Quick Chat (Ctrl+Shift+I)               │
-│     → Fast one-off questions                │
-│     → No context switch                     │
-│                                             │
-│  5. Agent Mode                              │
-│     → Multi-step autonomous tasks           │
-│     → Complex implementations               │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+GitHub Copilot offers five main interaction modes, each designed for different use cases:
+
+**1. Inline Completion** (Automatic)
+- Auto-suggestions appear as you type
+- Press `Tab` to accept suggestions
+- Best for writing code quickly
+
+**2. Inline Chat** (`Ctrl+I`)
+- Ask contextual questions about selected code
+- Request quick edits and modifications
+- Immediate inline responses
+
+**3. Chat Panel** (`Ctrl+Alt+I`)
+- Extended multi-turn conversations
+- Perfect for learning and exploration
+- Maintains conversation history
+
+**4. Quick Chat** (`Ctrl+Shift+I`)
+- Fast one-off questions
+- No context switching needed
+- Quick answers without panels
+
+**5. Agent Mode**
+- Multi-step autonomous task execution
+- Complex implementations across multiple files
+- Advanced feature for sophisticated workflows
 
 ### Mode Comparison Table
 
@@ -630,20 +629,61 @@ Create the same feature in three different languages:
 
 **Feature:** Function to validate email, check if it exists in database
 
+**Instructions:**
+1. Use Inline Completion to generate each function
+2. Ask Copilot to add error handling
+3. Use Ask Mode to explain differences between implementations
+
 **Python:**
 ```python
-# Your implementation with Copilot
+# Prompt: "Function to validate email format and check if exists in database using SQLAlchemy"
+# Copilot will suggest:
+# - regex pattern matching for email validation
+# - SQLAlchemy query to check database
+# - proper error handling
+import re
+from models import User
+
+def validate_and_check_email(email):
+    """Validate email format and check if exists in database."""
+    # Start typing and let Copilot complete
 ```
 
 **JavaScript:**
 ```javascript
-// Your implementation with Copilot
+// Prompt: "Function to validate email format and check if user exists in database using Mongoose"
+// Copilot will suggest:
+// - regex pattern for validation
+// - async/await for database query
+// - Promise-based error handling
+const User = require('./models/User');
+
+async function validateAndCheckEmail(email) {
+    // Start typing and let Copilot complete
+}
 ```
 
 **TypeScript:**
 ```typescript
-// Your implementation with Copilot
+// Prompt: "Function to validate email format and check if exists in database with type safety"
+// Copilot will suggest:
+// - interface definitions for User
+// - typed return values
+// - strict null checks
+interface User {
+    id: number;
+    email: string;
+}
+
+async function validateAndCheckEmail(email: string): Promise<boolean> {
+    // Start typing and let Copilot complete
+}
 ```
+
+**Reflection Questions:**
+- How did the implementations differ across languages?
+- What patterns did Copilot use in each language?
+- How would you handle errors differently in each language?
 
 ### Exercise 2: Ask Mode Practice
 
@@ -760,35 +800,113 @@ Build a complete application using multiple programming languages with Copilot.
 ### Instructions
 
 **Part 1: Backend (Python)**
+
+*Prompt:* "Create a Flask API for task management with user authentication"
+
 ```python
-# Use Copilot to create:
-# - app.py (Flask application)
-# - models.py (Database models)
-# - auth.py (Authentication)
-# - routes.py (API endpoints)
+# app.py - Main Flask application
+# Prompt: "Create Flask app with SQLAlchemy for task management"
+from flask import Flask, jsonify, request
+from flask_sqlalchemy import SQLAlchemy
+from flask_jwt_extended import JWTManager
+
+app = Flask(__name__)
+# Copilot suggests configuration and setup
+
+# models.py - Database models
+# Prompt: "Create SQLAlchemy models for User and Task with relationships"
+class User(db.Model):
+    # Copilot suggests proper field definitions
+    pass
+
+class Task(db.Model):
+    # Copilot suggests relationship to User
+    pass
+
+# auth.py - Authentication logic
+# Prompt: "Implement JWT authentication with password hashing using bcrypt"
+def register_user(username, email, password):
+    # Copilot suggests hashing and database storage
+    pass
+
+# routes.py - API endpoints
+# Prompt: "Create REST API endpoints for CRUD operations on tasks"
+@app.route('/api/tasks', methods=['GET'])
+def get_tasks():
+    # Copilot suggests query and JSON response
+    pass
 ```
 
 **Part 2: Frontend (JavaScript)**
+
+*Prompt:* "Create a single-page application for task management"
+
 ```javascript
-// Use Copilot to create:
-// - index.html (Main page)
-// - style.css (Styling)
-// - app.js (Frontend logic)
-// - api.js (API client)
+// index.html - Main page
+// Prompt: "Create responsive HTML page with login form and task list"
+<div id="app">
+    <!-- Copilot suggests structure -->
+</div>
+
+// style.css - Styling
+// Prompt: "Add modern CSS styling with flexbox for task management app"
+:root {
+    /* Copilot suggests color scheme */
+}
+
+// app.js - Frontend logic
+// Prompt: "Create JavaScript app with form handlers and state management"
+class TaskApp {
+    constructor() {
+        // Copilot suggests initialization
+    }
+    
+    async addTask(title) {
+        // Copilot suggests API integration
+    }
+}
+
+// api.js - API client
+// Prompt: "Create API client class with methods for all CRUD operations"
+class APIClient {
+    async getTasks() {
+        // Copilot suggests fetch implementation
+    }
+}
 ```
 
 **Part 3: Database (SQL)**
+
+*Prompt:* "Create database schema for task management system"
+
 ```sql
--- Use Copilot to create:
--- - schema.sql (Database schema)
--- - seed.sql (Sample data)
+-- schema.sql - Database schema
+-- Prompt: "Create normalized database schema with users and tasks tables"
+CREATE TABLE users (
+    -- Copilot suggests proper fields and constraints
+);
+
+CREATE TABLE tasks (
+    -- Copilot suggests relationship to users table
+);
+
+-- seed.sql - Sample data
+-- Prompt: "Generate sample data for testing"
+INSERT INTO users (...) VALUES (...);
+INSERT INTO tasks (...) VALUES (...);
 ```
 
 **Part 4: Documentation**
-Use Ask Mode to:
-- Explain architectural decisions
-- Document API endpoints
-- Create setup instructions
+
+Use Ask Mode (Chat Panel) for these questions:
+- "How should I structure a multi-language full-stack application?"
+- "What are best practices for API endpoint documentation?"
+- "How do I set up a development environment for this stack?"
+
+Create files:
+- `README.md` - Setup and usage instructions
+- `API.md` - API endpoint documentation
+- `ARCHITECTURE.md` - System architecture explanation
 
 ### Deliverables
 - Complete working application

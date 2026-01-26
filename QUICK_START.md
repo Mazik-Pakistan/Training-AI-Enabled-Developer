@@ -36,7 +36,7 @@ Before starting, ensure you have:
 
 **For Others:**
 1. Go to [github.com/features/copilot](https://github.com/features/copilot)
-2. Click **Start free trial** (or **Buy** for $10/month)
+2. Click **Start free trial** 
 3. ✅ Copilot activated!
 
 ### Step 3: Install VS Code (3 minutes)
