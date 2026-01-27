@@ -15,6 +15,16 @@
 ## 🎯 Course Overview
 
 Welcome to the **AI Enabled Developer** training program! This comprehensive course teaches you how to leverage GitHub, GitHub Copilot, and AI-powered tools to become a more productive, efficient, and effective developer.
+<div align="center">
+
+<video controls width="100%" style="max-width: 800px; border-radius: 8px; margin: 20px 0;">
+  <source src="modules/AI-Enabled-Developer-Training-Introduction.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+</div>
+
+---
 
 ### What You'll Learn
 
