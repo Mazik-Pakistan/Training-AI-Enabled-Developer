@@ -17,11 +17,10 @@
 Welcome to the **AI Enabled Developer** training program! This comprehensive course teaches you how to leverage GitHub, GitHub Copilot, and AI-powered tools to become a more productive, efficient, and effective developer.
 <div align="center">
 
+<a href="https://mazikglobalinc-my.sharepoint.com/:v:/g/personal/muhammad_samiullah_mazikglobal_com/IQB5_uDwb1kJTJdvEEK1Aq13AfLM8c3_BtCRuSDUTRl78Wo">
+    <img src="modules/module1-intro-github-copilot/images/intro-thumbnail.png" alt="GitHub Copilot Introduction Demo" width="600">
 <p align="center">
-  <a href="https://mazikglobalinc-my.sharepoint.com/:v:/g/personal/muhammad_samiullah_mazikglobal_com/IQB5_uDwb1kJTJdvEEK1Aq13AfLM8c3_BtCRuSDUTRl78Wo">
-    <img src="images/intro-thumbnail.png" alt="GitHub Copilot Introduction Demo" width="600">
-  </a>
-   ▶ Click to play video
+  ▶ Click to play training introduction video</em>
 </p>
 
 </div>
