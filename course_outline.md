@@ -16,14 +16,22 @@ This course is designed to provide developers with a comprehensive understanding
 - **Reference Links**: [GitHub Docs](https://docs.github.com/)
 
 ### Module 2: Foundations & Inline Code
-- **Learning Objectives**: Learn about inline code assistance and multi-environment support.
-- **Concept Explanation**: This module covers AI code completion and inline code actions in GitHub Copilot.
+- **Learning Objectives**: Learn about inline code assistance and master Copilot's core interaction modes (Ask, Edit, Agent) across multiple programming languages.
+- **Concept Explanation**: This module covers AI code completion, inline code actions, and three primary interaction modes for different development scenarios.
+  - **Unit 1**: AI code completion and inline code actions
+  - **Unit 2**: Ask Mode for learning, Edit Mode for modifications, Agent Mode for autonomous tasks
 - **Hands-On Exercises**: 
-  - Use GitHub Copilot to complete a code snippet.
+  - Use GitHub Copilot to complete code snippets
+  - Practice Ask Mode for problem-solving
+  - Use Edit Mode for targeted code modifications
+  - Leverage Agent Mode for complex multi-file tasks
 - **Code Examples**: 
-  - Before vs After improvements using GitHub Copilot.
+  - Before vs After improvements using GitHub Copilot
+  - Multi-language examples across different modes
+  - Integrated workflows combining all three modes
 - **Labs or Mini-Projects**: 
-  - Build a simple application using inline code assistance.
+  - Build applications using inline code assistance
+  - Create a full-stack Task Management System using all interaction modes
 - **Reference Links**: [GitHub Skills](https://skills.github.com/)
 
 ### Module 3: Copilot As Assistant / Conversational Development Workflows

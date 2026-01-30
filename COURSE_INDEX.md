@@ -46,11 +46,12 @@ This index helps you quickly find any topic in the course.
   - Inline code actions (Explain, Fix, Move, Rewrite)
   - Multiple alternatives
   - Best practices
-- [Unit 2: Multi-Environment Support](modules/module2-foundations-inline/unit2-multi-environment.md)
-  - Multi-language support
-  - Language-specific features
-  - Ask Mode
-  - Interaction modes
+- [Unit 2: Copilot Interaction Modes](modules/module2-foundations-inline/unit2-copilot-interaction-mode.md)
+  - Ask Mode: Learning and problem-solving
+  - Edit Mode: Code modification and refactoring
+  - Agent Mode: Autonomous complex tasks
+  - Multi-language support across all modes
+  - Integrated workflow combinations
 
 ### Module 3: Copilot As Assistant
 **📁 Location:** `modules/module3-copilot-assistant/`

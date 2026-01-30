@@ -19,9 +19,12 @@ You've completed the AI Enabled Developer training course! This document summari
 ### Module 2: Foundations & Inline Code ✅
 - Leveraged AI code completion effectively
 - Applied inline code actions (Explain, Fix, Move, Rewrite)
+- Mastered Ask Mode for learning and problem-solving
+- Used Edit Mode for precise code modifications
+- Leveraged Agent Mode for complex autonomous tasks
 - Worked across multiple programming languages
-- Used different interaction modes appropriately
-- Built multi-language projects
+- Chose appropriate interaction modes for different scenarios
+- Built integrated workflows combining all three modes
 
 ### Module 3: Copilot As Assistant ✅
 - Mastered conversational development workflows
