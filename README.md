@@ -4,7 +4,7 @@
 
 <br>
 
-# AI Enabled Developer - Complete Training Course
+# AI Enabled Developer - Complete Training Course (Syed Omer Ahmed Shamsi)
 
 ⭐ Don’t forget to star it on GitHub — it makes navigation easier!
 
